@@ -58,7 +58,7 @@ The following example calls the <xref:System.Convert.ToInt32%28System.String%29?
 
 ## Use GitHub Copilot to convert a string to a number
 
-You can use GitHub Copilot in your IDE to generate code to convert a string to a number in C#.
+You can use GitHub Copilot in your IDE to generate C# code to convert a string to a number. You can customize the prompt to use a string per your requirements.
 
 The following text shows an example prompt for Copilot Chat:
 
@@ -68,8 +68,4 @@ Generate C# code to convert the string "123" to a number using TryParse. Provide
 
 GitHub Copilot is powered by AI, so surprises and mistakes are possible. For more information, see [Copilot FAQs](https://aka.ms/copilot-general-use-faqs).
 
-For more information, see:
-
-* [GitHub Copilot Trust Center](https://resources.github.com/copilot-trust-center/)
-* [GitHub Copilot in Visual Studio](/visualstudio/ide/visual-studio-github-copilot-install-and-states)
-* [GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/overview)
+Learn more about [GitHub Copilot in Visual Studio](/visualstudio/ide/visual-studio-github-copilot-install-and-states) and [GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/overview).
