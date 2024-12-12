@@ -58,7 +58,7 @@ The following example calls the <xref:System.Convert.ToInt32%28System.String%29?
 
 ## Use GitHub Copilot to convert a string to a number
 
-You can use GitHub Copilot in your IDE to generate code to convert a string to a number in C#. 
+You can use GitHub Copilot in your IDE to generate code to convert a string to a number in C#.
 
 The following text shows an example prompt for Copilot Chat:
 
